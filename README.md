@@ -2,7 +2,7 @@
  miniature MIPS assembler phase 2  - Computer Architecture class
 
 ## Inputs
-After you compiled the code you need to run it and pass the input file and output file. inputfile must be in .ms format and outputfile must be in .log format.
+After you compiled the code you need to run it and pass the input file and output file. the input file must be in .ms format and the output file must be in .log format.
 
 <p align="center">
     <img src=".\screenshot\1 terminal input.PNG" width="800" >
@@ -16,7 +16,7 @@ The .mc file is the input file. It contains phase 1 output that will be assemble
 </p>
 
 ## .log file
-The .log file is the output file. It show us:
+The .log file is the output file. It shows us:
 * Registers and their values
 * Registers use percentage
 * Number of instructions in the input file
