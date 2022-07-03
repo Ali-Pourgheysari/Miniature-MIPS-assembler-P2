@@ -16,7 +16,7 @@ The .mc file is the input file. It contains phase 1 output that will be assemble
 </p>
 
 ## .log file
-The .log file is the output file. It shows us:
+The .log file is the output file. It shows us information about the assembly process for each line of the input file:
 * Registers and their values
 * Registers use percentage
 * Number of instructions in the input file
